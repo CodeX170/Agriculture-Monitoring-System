@@ -1,4 +1,4 @@
-🔹 Key Features
+Key Features:-
 
 Soil Moisture Monitoring – Continuously tracks soil water levels to optimize irrigation.
 
@@ -10,7 +10,7 @@ Automated Alerts – Sends notifications when critical thresholds (e.g., low soi
 
 Cloud Integration – Stores and processes data for remote access anytime, anywhere.
 
-🔹 Technology Stack
+Technology Stack-:
 
 Hardware: Arduino/ESP8266/ESP32, DHT11/DHT22, Soil Moisture Sensor
 
@@ -20,7 +20,7 @@ Cloud: AWS IoT / ThingSpeak / Firebase (for data storage & visualization)
 
 Frontend: Web-based dashboard for monitoring
 
-🔹 Applications
+ Applications-:
 
 Precision farming
 
